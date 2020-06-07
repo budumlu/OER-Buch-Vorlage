@@ -1,8 +1,6 @@
-## Herzlich Willkommen zum Programmierkurs für den Thymio V2
+## Herzlich Willkommen zur OER-Buchvorlage
 
-You can use the [editor on GitHub](https://github.com/budumlu/Thymio-Book/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diese [Buchvorlage](https://github.com/budumlu/OER-Buch-Vorlage/edit/master/README.md) kann frei verwendet werden.
 
 ### Markdown
 
