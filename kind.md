@@ -1,4 +1,3 @@
-
 ---
 title: Kind der Ersten
 parent: Ersten
