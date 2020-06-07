@@ -36,7 +36,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
+  "ThymioV2 on GitHub":
     - "//github.com/budumlu/ThymioV2"
 
 # Footer content appears at the bottom of every page's main content
@@ -46,9 +46,6 @@ footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an
 color_scheme: nil
 
 
-
-plugins:
-  - jekyll-seo-tag
 
 compress_html:
   clippings: all
