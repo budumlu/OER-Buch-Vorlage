@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen zum Programmierkurs für den Thymio V2
 
 You can use the [editor on GitHub](https://github.com/budumlu/Thymio-Book/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
