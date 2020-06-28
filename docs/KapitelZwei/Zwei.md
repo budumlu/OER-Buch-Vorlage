@@ -2,7 +2,7 @@
 layout: default
 title: Beispiel mit Inhaltsverzeichnis
 has_children: false
-nav_order: 3
+nav_order: 99
 ---
 
 ## Beispiel mit Inhaltsverzeichnis
