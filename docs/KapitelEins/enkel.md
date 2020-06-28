@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Enkel der Eins
 parent: Kind der Eins
 grand_parent: Eins
