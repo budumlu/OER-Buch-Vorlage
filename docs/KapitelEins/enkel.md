@@ -1,7 +1,7 @@
 ---
 title: Enkel der Eins
 parent: Kind der Eins
-grand_parent: Ersten
+grand_parent: Eins
 nav_order: 1
 ---
 
