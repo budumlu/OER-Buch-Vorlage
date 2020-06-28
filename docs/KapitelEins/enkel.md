@@ -1,6 +1,6 @@
 ---
-title: Enkel der Ersten
-parent: Kind der Ersten
+title: Enkel der Eins
+parent: Kind der Eins
 grand_parent: Ersten
 nav_order: 1
 ---
